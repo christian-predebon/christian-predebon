@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Christian Predebon, I'm from Italy and I'm a front-end enthusiast!
+My name is Christian Predebon, I'm from Italy and I'm a front-end developer!
 
 - Currently working for [BonusX](https://github.com/BonusX-Global)
 - Typescript is my favourite language
